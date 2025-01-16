@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="p2.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        .box{
+            position:absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+            height:35rem;
+            width:45rem;
+            padding:2.5rem;
+            box-sizing:border-box;
+            background:rgba(0,0,0,0.3);
+            border-radius:0.625rem;
+
+        }
+        .sent{
+            opacity:0.3;
+            text-align:center;
+        }
+    </style>
+   
+</head>
+<body >
+    
+    <form id="form1" runat="server" >
+    <div style= "height:931px;background-image:linear-gradient(to left, #6eb68a, #005da3)"><br /><br /><br />
+        <h1 style="color:white;"><center>Login form using HTML and CSS</center></h1>
+        <div class="box">
+            <h2><center>Sign in</center></h2>
+            <div class="sent">
+            <h4>Sign in with your username and password</h4>
+        </div>
+           <p style="color:white; font-size:20px;"> Your username</p>
+            <asp:TextBox ID="TextBox1" runat="server" Width="600px" Height="35px" style="Opacity:0.8; cursor:pointer;" placeholder="Enter Username"  ></asp:TextBox>
+            <br />
+             <p style="color:white; font-size:20px;"> Your password</p>
+        
+           
+        
+            <asp:TextBox ID="TextBox2" runat="server" Width="600px" Height="35px" style="Opacity:0.8; cursor:pointer;" placeholder="Enter Password"  ></asp:TextBox>
+            <br /><br />
+
+             <asp:CheckBox ID="CheckBox1" runat="server" Text="Remember me"  style="color:white; font-size:20px; cursor:pointer;" />
+            <a href="#" style="color:dodgerblue; text-decoration:none; margin-left:300px">Forget Password?<br /><br />
+            <asp:Button ID="Button1" runat="server" Text="Login" Width="95%" Height="40px" Backcolor="Black" style= " padding: 10px; color: white; font-size:20px; opacity:0.9; border:0px; border-radius:7px; cursor:pointer" /><br /><br /><br />
+           <asp:Lable style="color:white; margin-left:200px">Not a member? </asp:Lable>&nbsp; <a href="#" style="color:dodgerblue; text-decoration:none;margin-top:100px;">Register here!</a>
+           
+        </div>
+
+
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,84 @@
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\csc.exe
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\System.Collections.Immutable.dll
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\System.Reflection.Metadata.dll
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\vbc.exe
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\VBCSCompiler.exe
+G:\sem6\.aspnet\task1\p2\p2\bin\roslyn\VBCSCompiler.exe.config
+G:\sem6\.aspnet\task1\p2\p2\bin\p2.dll.config
+G:\sem6\.aspnet\task1\p2\p2\bin\p2.dll
+G:\sem6\.aspnet\task1\p2\p2\bin\p2.pdb
+G:\sem6\.aspnet\task1\p2\p2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\sem6\.aspnet\task1\p2\p2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\sem6\.aspnet\task1\p2\p2\obj\Debug\p2.csprojResolveAssemblyReference.cache
+G:\sem6\.aspnet\task1\p2\p2\obj\Debug\p2.dll
+G:\sem6\.aspnet\task1\p2\p2\obj\Debug\p2.pdb
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\csc.exe
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\System.Collections.Immutable.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\System.Reflection.Metadata.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\vbc.exe
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\VBCSCompiler.exe
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\roslyn\VBCSCompiler.exe.config
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\p2.dll.config
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\p2.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\p2.pdb
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\D-SEM-6\ASP.NET\task1\p2\p2\obj\Debug\p2.csproj.AssemblyReference.cache
+D:\D-SEM-6\ASP.NET\task1\p2\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+D:\D-SEM-6\ASP.NET\task1\p2\p2\obj\Debug\p2.csproj.CopyComplete
+D:\D-SEM-6\ASP.NET\task1\p2\p2\obj\Debug\p2.dll
+D:\D-SEM-6\ASP.NET\task1\p2\p2\obj\Debug\p2.pdb
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\csc.exe
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\vbc.exe
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\VBCSCompiler.exe
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\p2.dll.config
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\p2.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\p2.pdb
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\obj\Debug\p2.csproj.AssemblyReference.cache
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\obj\Debug\p2.csproj.Up2Date
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\obj\Debug\p2.dll
+D:\C#\Sem-6\ASP.NET Assignment-1\p2\p2\obj\Debug\p2.pdb
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\csc.exe
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\System.Collections.Immutable.dll
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\System.Reflection.Metadata.dll
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\vbc.exe
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\VBCSCompiler.exe
+D:\uv\ASP.NET-Tasks\p2\p2\bin\roslyn\VBCSCompiler.exe.config
+D:\uv\ASP.NET-Tasks\p2\p2\bin\p2.dll.config
+D:\uv\ASP.NET-Tasks\p2\p2\bin\p2.dll
+D:\uv\ASP.NET-Tasks\p2\p2\bin\p2.pdb
+D:\uv\ASP.NET-Tasks\p2\p2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\uv\ASP.NET-Tasks\p2\p2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\uv\ASP.NET-Tasks\p2\p2\obj\Debug\p2.csprojResolveAssemblyReference.cache
+D:\uv\ASP.NET-Tasks\p2\p2\obj\Debug\p2.dll
+D:\uv\ASP.NET-Tasks\p2\p2\obj\Debug\p2.pdb
